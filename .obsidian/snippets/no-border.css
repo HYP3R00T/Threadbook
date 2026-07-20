@@ -1,0 +1,28 @@
+/* Minimal borders for Obsidian's default theme. Disable this snippet at any time to restore the defaults. */
+
+body {
+  /* Panels, menus, inputs, cards, and other UI surfaces */
+  --background-modifier-border: transparent;
+  --background-modifier-border-hover: transparent;
+  --background-modifier-border-focus: transparent;
+
+  /* Workspace dividers and the outline around the active tab area */
+  --divider-color: transparent;
+  --divider-color-hover: var(--interactive-accent);
+  --tab-outline-color: transparent;
+
+  /* Horizontal rules are document content, not interface borders. */
+  --hr-color: color-mix(in srgb, var(--text-faint) 35%, transparent);
+  --hr-thickness: 1px;
+}
+
+/* Keep split-pane resize handles invisible until hovered. */
+.workspace-leaf-resize-handle,
+.workspace-split.mod-root > .workspace-leaf-resize-handle {
+  background-color: transparent;
+}
+
+.workspace-leaf-resize-handle:hover,
+.workspace-split.mod-root > .workspace-leaf-resize-handle:hover {
+  background-color: var(--interactive-accent);
+}

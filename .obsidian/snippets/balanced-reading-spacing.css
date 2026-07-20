@@ -1,0 +1,5 @@
+/* Shared typography for Live Preview and Reading View. These are Obsidian default values, applied at the common root so neither view receives its own spacing or heading measurements. */
+
+body {
+  --line-height-normal: 1.2;
+}

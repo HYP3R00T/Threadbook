@@ -1,0 +1,13 @@
+{
+  "showViewHeader": true,
+  "showRibbon": true,
+  "textFontFamily": "FiraCode Nerd Font Mono",
+  "monospaceFontFamily": "FiraCode Nerd Font Mono",
+  "cssTheme": "",
+  "accentColor": "#5c8af5",
+  "enabledCssSnippets": [
+    "darker-header",
+    "no-border",
+    "balanced-reading-spacing"
+  ]
+}

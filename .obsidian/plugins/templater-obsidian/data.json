@@ -1,0 +1,38 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "Extras/Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": false,
+  "folder_templates": [],
+  "enable_file_templates": true,
+  "file_templates": [
+    {
+      "regex": "\\d{4}-\\d{2}-\\d{2}.*",
+      "template": "Extras/Templates/daily_notes_template.md"
+    },
+    {
+      "regex": "\\Notes\\.*",
+      "template": "Extras/Templates/notes_template.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [],
+  "startup_templates": [],
+  "intellisense_render": 1,
+  "ignore_folders_on_creation": [
+    {
+      "folder": ""
+    }
+  ]
+}

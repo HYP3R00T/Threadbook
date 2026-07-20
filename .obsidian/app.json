@@ -1,0 +1,12 @@
+{
+  "openBehavior": "daily",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Notes",
+  "attachmentFolderPath": "./Attachments",
+  "alwaysUpdateLinks": true,
+  "propertiesInDocument": "hidden",
+  "showLineNumber": true,
+  "readableLineLength": false,
+  "promptDelete": false,
+  "showInlineTitle": false
+}

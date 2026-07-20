@@ -1,0 +1,18 @@
+/* A subtler header for Obsidian's default dark theme. Toggle this snippet independently from no-border.css. */
+
+body.theme-dark {
+  --titlebar-background: #252525;
+  --titlebar-background-focused: #252525;
+  --tab-container-background: #252525;
+}
+
+/* Keep the top tab strip consistent across native and custom title bars. */
+body.theme-dark .titlebar,
+body.theme-dark .workspace-tabs.mod-top .workspace-tab-header-container {
+  background-color: #252525;
+}
+
+/* Let the selected tab blend gently into the editor surface. */
+body.theme-dark .workspace-tabs.mod-top .workspace-tab-header.is-active {
+  background-color: var(--background-primary);
+}
