@@ -7,7 +7,6 @@
   "accentColor": "#5c8af5",
   "enabledCssSnippets": [
     "darker-header",
-    "no-border",
-    "balanced-reading-spacing"
+    "no-border"
   ]
 }
