@@ -1,0 +1,31 @@
+# Private vault content
+/Notes/**
+/Diary/**
+/Attachments/**
+/.trash/
+
+# Keep empty content directories in the reusable template
+!/Notes/.gitkeep
+!/Diary/.gitkeep
+!/Attachments/.gitkeep
+
+# Personal and device-specific Obsidian state
+/.obsidian/workspace.json
+/.obsidian/workspace-mobile.json
+/.obsidian/cache/
+
+# Local tooling state
+/.agents/
+
+# Downloaded community-plugin code (retain reviewable data.json settings)
+/.obsidian/plugins/*/main.js
+/.obsidian/plugins/*/styles.css
+/.obsidian/plugins/*/manifest.json
+
+# Operating-system and editor noise
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.tmp
+*.temp
+*~
