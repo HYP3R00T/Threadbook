@@ -1,15 +1,15 @@
-# Threadbook
+<h1 align="center">Threadbook</h1>
 
-**A no-bullshit Obsidian vault for writing, linking, and moving on.**
+<p align="center"><strong>A no-bullshit Obsidian vault for writing, linking, and moving on.</strong></p>
 
-<p>
+<p align="center">
   <img alt="Plain Markdown" src="https://img.shields.io/badge/notes-Markdown-111827?style=for-the-badge&logo=markdown&logoColor=white">
   <img alt="Local Only" src="https://img.shields.io/badge/storage-Local--Only-5c8af5?style=for-the-badge">
   <img alt="No housekeeping" src="https://img.shields.io/badge/housekeeping-None-16a34a?style=for-the-badge">
   <img alt="Flat structure" src="https://img.shields.io/badge/structure-Flat-f59e0b?style=for-the-badge">
 </p>
 
-Threadbook removes note maintenance from note-taking. There are no categories to manage, frontmatter forms to complete, mandatory tags to remember, or nested folders to reorganize. No framework—whether [Johnny Decimal](https://johnnydecimal.com/), [Zettelkasten](https://zettelkasten.de/), or [PARA](https://www.buildingasecondbrain.com/para)—is required.
+Threadbook removes note maintenance from note-taking. There are no categories to manage, frontmatter forms to complete, mandatory tags to remember, or nested folders to reorganize. Frameworks such as [Johnny Decimal](https://johnnydecimal.com/), [Zettelkasten](https://zettelkasten.de/), and [PARA](https://www.buildingasecondbrain.com/para) are not required.
 
 > [!TIP]
 > **Open → write → link when useful → search when needed.** That is the entire system.
