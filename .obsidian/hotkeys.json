@@ -1,68 +1,49 @@
 {
   "daily-notes": [
     {
-      "modifiers": [
-        "Mod"
-      ],
+      "modifiers": ["Mod"],
       "key": "D"
     }
   ],
   "editor:delete-paragraph": [],
   "cfr-find:vault-search": [
     {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
+      "modifiers": ["Alt", "Mod"],
       "key": "F"
     }
   ],
   "command-palette:open": [
     {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
+      "modifiers": ["Mod", "Shift"],
       "key": "P"
     },
     {
-      "modifiers": [
-        "Mod"
-      ],
+      "modifiers": ["Mod"],
       "key": "P"
     }
   ],
   "file-explorer:new-file-in-new-pane": [],
   "window:reset-zoom": [
     {
-      "modifiers": [
-        "Mod"
-      ],
+      "modifiers": ["Mod"],
       "key": "0"
     }
   ],
   "app:toggle-left-sidebar": [
     {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
+      "modifiers": ["Mod", "Shift"],
       "key": "B"
     }
   ],
   "window:zoom-in": [
     {
-      "modifiers": [
-        "Mod"
-      ],
+      "modifiers": ["Mod"],
       "key": "="
     }
   ],
   "window:zoom-out": [
     {
-      "modifiers": [
-        "Mod"
-      ],
+      "modifiers": ["Mod"],
       "key": "-"
     }
   ]
